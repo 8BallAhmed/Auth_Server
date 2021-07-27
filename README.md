@@ -1,6 +1,6 @@
-# Authentication Server
+# Authentication / Authorization Server
 
-This is a token based Authentication Server that uses a simple token with an expiration date to validate a user's identity. There are 3 endpoints: Register, Login, and Validate. Register and Login are self-explanatory. Validate is used to check if a token is valid, and is used when a user is executing an operation on the front-end.
+This is a token based Authentication / Authorization Server that uses a simple token with an expiration date to validate a user's identity. There are 3 endpoints: Register, Login, and Validate. Register and Login are self-explanatory. Validate is used to check if a token is valid, and is used when a user is executing an operation on the front-end.
 
 ## Installation
 
